@@ -7,10 +7,10 @@
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <AnalysisLevel>latest</AnalysisLevel>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 
     <Copyright>© 2022 Ronan Farrell</Copyright>
     <Authors>Ronan Farrell</Authors>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <RepositoryUrl>https://github.com/TheWorkBookDev/TheWorkBook.Utils</RepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>

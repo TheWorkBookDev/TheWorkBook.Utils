@@ -2,7 +2,6 @@
 
 namespace TheWorkBook.Utils.ParameterStore
 {
-
     public sealed class Parameter : IParameter
     {
         public Parameter() { }

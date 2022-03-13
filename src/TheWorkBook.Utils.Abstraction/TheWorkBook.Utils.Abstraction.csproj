@@ -12,7 +12,7 @@
     <Authors>Ronan Farrell</Authors>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <RepositoryUrl>https://github.com/TheWorkBookDev/TheWorkBook.Utils</RepositoryUrl>
+    <RepositoryUrl>https://github.com/TheWorkBookDev/SharedNuget</RepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>

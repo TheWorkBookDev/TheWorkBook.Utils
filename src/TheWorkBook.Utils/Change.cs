@@ -2,7 +2,7 @@
 {
     internal static class Change
     {
-        public static T? To<T>(string s)
+        public static T To<T>(string s)
         {
             if (String.IsNullOrWhiteSpace(s))
                 return default(T);
